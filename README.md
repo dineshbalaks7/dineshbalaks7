@@ -1,4 +1,4 @@
-# Hi, I'm Dinesh Bala KS
+# Dinesh Bala KS
 
 ### Aspiring AI Engineer | Machine Learning | Python Developer
 
@@ -8,44 +8,36 @@ I enjoy working with machine learning, data science, computer vision, and AI-pow
 
 ---
 
-### About Me
+## About Me
 
-- 🎓 B.Tech in Artificial Intelligence and Data Science
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 📊 Exploring data analytics and predictive modelling
-- 💻 Building practical AI-powered applications
-- 🚀 Focused on developing and deploying real-world projects
-- 🌱 Continuously learning and improving my engineering skills
+- B.Tech in Artificial Intelligence and Data Science
+- Interested in Artificial Intelligence and Machine Learning
+- Exploring data analytics and predictive modelling
+- Building practical AI-powered applications
+- Focused on developing and deploying real-world projects
+- Continuously learning and improving my engineering skills
 
-### Featured Projects
+## Featured Projects
 
-**ShopSense – AI-Powered Purchase Prediction**
-
+### ShopSense – AI-Powered Purchase Prediction
 A machine learning application that predicts customer purchase behaviour using an optimized Decision Tree classification pipeline.
 
-**GrammarFix AI – AI-Powered Grammar Correction**
-
+### GrammarFix AI – AI-Powered Grammar Correction
 An intelligent application designed to identify grammatical errors and improve sentence quality.
 
-**CodeNXT – AI-Powered Interview Preparation**
-
+### CodeNXT – AI-Powered Interview Preparation
 An AI-powered platform designed to help candidates prepare for technical interviews.
 
-**Smart Timetable Assigner**
-
+### Smart Timetable Assigner
 An intelligent timetable management solution that automates skill tests and mock assessments when scheduled tutors are unavailable.
 
-**AI-Based Classroom Monitoring System**
-
+### AI-Based Classroom Monitoring System
 A computer vision-based solution designed to monitor classroom activities.
 
-**CareerMatch AI**
-
+### CareerMatch AI
 An AI-powered career matching application designed to connect candidate profiles with relevant career opportunities.
 
----
-
-### Technical Skills
+## Technical Skills
 
 - **Programming:** Python, SQL
 - **Machine Learning:** Scikit-learn, Decision Trees, K-Means, Model Evaluation
@@ -56,9 +48,7 @@ An AI-powered career matching application designed to connect candidate profiles
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Data Visualization:** Power BI, Tableau
 
----
-
-### GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dineshbalaks7&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -69,9 +59,7 @@ An AI-powered career matching application designed to connect candidate profiles
   <img src="https://streak-stats.demolab.com?user=dineshbalaks7&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-### Connect With Me
+## Connect With Me
 
 - **GitHub:** https://github.com/dineshbalaks7
 - **Portfolio:** https://portfolio-seven-pi-8uka0t39qg.vercel.app/
@@ -81,5 +69,5 @@ An AI-powered career matching application designed to connect candidate profiles
 ---
 
 <p align="center">
-  <i>Building, learning, experimenting, and growing one project at a time.</i>
+  <i>Building intelligent solutions through continuous learning and innovation.</i>
 </p>
